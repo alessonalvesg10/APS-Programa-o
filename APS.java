@@ -11,6 +11,7 @@ public class APS {
     
     // Estilos
     public static final String NEGRITO = "\u001B[1m";
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         int notaTotal = 0;
         int contador = 1;
