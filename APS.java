@@ -87,9 +87,7 @@ public class APS {
                     trava = false;
                     break;
             } 
-            contador++; //ISSO AQ FELIPE FAZ O CONTADOR FUNCIONAR, PEGUEI DE BASE O SLIDE DO SLIDE ESTRUTURA DE REPETIÇÃO LA NO MODDLE (N SEI PQ TOU GRITANDO)
-            //POR EXEMPLO FAZ O IF DE CADA CASE CALCULAR, TIPO RESPOSTA == 3, O CONTADOR FAZ O RESPOSTA == 2 ADICIONAR MAIS 1 POR ISSO QUE TEM 2 +(CONTADOR++)
-            //INCLUSIVE SE VC VER TEM 2 ARQUIVOS ESSE QUE FOI EU Q FIZ E O OUTRO Q FOI O CHATGPT, USEI DO CHATGPT PRA
+            contador++;
         }
         System.out.println(" =-=-=ANALISE DE CYBERSEGURANÇA=-=-=");
         System.out.println("NOTA DE SEGURANÇA: " + notaTotal + " pontos.");
